@@ -1,0 +1,2 @@
+103,	Strainul,	Albert Camus,	BPT,	13
+2,	1984,		George Orwell,	CPT,	134
