@@ -12,3 +12,7 @@ The program allows for the user to add entries, view all of the entires, search 
 
 The Add, Search, Update, and Delete are all followed up by appropriate prompts for the user to respond to, such as when using the Add command, the user is prompted to give the book an ID, a name, an author, a publishing house, and a price. Afterwards, the user is asked if they would like to add any more items.
 
+## Authors
+
+- [@gogoasa-c](https://www.github.com/gogoasa-c)
+- [@Brescar](https://www.github.com/Brescar)
